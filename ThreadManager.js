@@ -6,7 +6,7 @@
  *
  * @description manage animation thread
  * @author Nao Fujimoto, TEA FACTORY, http://teafac.com/
- * @version 1.3 - Last updated: 2017.10.24
+ * @version 1.0.3 - Last updated: 2017.10.24
  * 
  *
  */
